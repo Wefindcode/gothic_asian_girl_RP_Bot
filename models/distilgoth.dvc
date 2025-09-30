@@ -1,0 +1,6 @@
+outs:
+- md5: 255c5515df760e87f3e6cafd9673a2b1.dir
+  size: 1320346261
+  nfiles: 25
+  hash: md5
+  path: distilgoth
